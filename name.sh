@@ -1,4 +1,4 @@
-
+#!/bin/bash
 echo "Enter ur  name"
 read name
 echo "Enter ur place"
